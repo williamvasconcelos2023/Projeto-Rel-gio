@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Permanent Marker', cursive;
+}
+
+body{
+    background-image:url(https://rare-gallery.com/uploads/posts/894808-Dragon-Ball-Dragon-Ball-Z-DRAGON-BALL-Z-KAKAROT.png);
+    background-size: 85%;  
+    background-position: left;
+
+}
+
+
+button{
+    width: 200px;
+    height: 100px;
+    border-radius: 30px;
+    border: solid;
+    background: rgba(179, 6, 6, 0.886);
+    font-size: 50px;
+    cursor: pointer;
+    font-weight: 400;
+   
+}
+
+.my-primary-button{
+    margin-left: 200px;
+    margin-right: 20px;
+}
+
+h1{
+    margin-top: 30%;
+    margin-bottom: 50px;
+    margin-left: 360px;
+    border: solid;
+    width: 100px;
+    height: 60px;
+    border-radius: 30px;
+    background: rgb(13, 90, 243);
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+button:active{
+    opacity: 0.5;
+}
+
+
+
+
+
